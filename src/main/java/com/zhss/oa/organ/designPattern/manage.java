@@ -6,7 +6,8 @@ public class manage {
         DiscountCalculator discountCalculator=factory.getDiscountCalculator(desi);
         discountCalculator.calculate();
 //        Context context=new Context();
-//        context.setDiscountCalculator(discountCalculator);
+//        context.setDiscountCalculator(discou
+// ntCalculator);
 //        context.calculate();
     }
 }

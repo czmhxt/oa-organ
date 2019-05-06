@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90986eb1-8fa3-40f1-8010-404b60070e9a" name="Default Changelist" comment="" />
+    <list default="true" id="90986eb1-8fa3-40f1-8010-404b60070e9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhss/oa/organ/designPattern/manage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhss/oa/organ/designPattern/manage.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +42,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="758" />
+          <entry key="java" value="759" />
           <entry key="properties" value="9" />
           <entry key="txt" value="17" />
           <entry key="xml" value="61" />
@@ -48,7 +50,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="758" />
+          <entry key="JAVA" value="759" />
           <entry key="PLAIN_TEXT" value="17" />
           <entry key="Properties" value="9" />
           <entry key="XML" value="61" />
@@ -248,8 +250,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/oa/organ/designPattern/manage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="180">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -383,13 +385,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zhss/oa/organ/designPattern/DiscountCalDefault.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhss/oa/organ/designPattern/factory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhss/oa/organ/designPattern/Context.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhss/oa/organ/designPattern/manage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zhss/oa/organ/service/czmTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zhss/oa/organ/service/Code_02_TemplateMethod.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zhss/oa/organ/service/test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/zhss/oa/organ/service/JoinTest2.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zhss/oa/organ/service/AA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/oa/organ/designPattern/manage.java" />
       </list>
     </option>
   </component>
@@ -697,7 +699,7 @@
       <workItem from="1555669902563" duration="254000" />
       <workItem from="1555846485849" duration="1425000" />
       <workItem from="1556104003236" duration="458000" />
-      <workItem from="1557153311066" duration="275000" />
+      <workItem from="1557153311066" duration="607000" />
     </task>
     <servers />
   </component>
@@ -725,7 +727,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18445000" />
+    <option name="totallyTimeSpent" value="18777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="23" width="1618" height="1027" extended-state="6" />
@@ -986,8 +988,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/oa/organ/designPattern/manage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="180">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
